@@ -4,8 +4,8 @@ using static System.Console;
 int n;
 int a = 0;
 
-a = n;			// ?
-WriteLine(n);	// ?
+// a = n;			// error
+// WriteLine(n);	// error
 
-n = a;	// ?
-a = n;  // ?
+n = a;	// 쓰는 것은 가능
+a = n;  // 위 코드를 통해서 n은 값을 가지고 있다
