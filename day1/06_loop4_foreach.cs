@@ -1,1 +1,6 @@
-// for º¹»ç
+// for ï¿½ï¿½ï¿½ï¿½
+
+foreach(int e in x)
+{
+    WriteLine($"{e}");
+}

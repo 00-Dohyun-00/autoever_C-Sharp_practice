@@ -1,19 +1,14 @@
 using static System.Console;
 
-// �ٽ� : ��κ��� Ÿ���� object �� ���� �Ļ� �ȴ�.
+// 메소드와 프라퍼티
+// 메소드 : "변수이름.이름()" 을 사용해서 호출
+// 프라퍼티: "변수이름.이름"으로 접근 - 괄호 없음
 
-class Car 
-{	
-}
+string s = "abcd";
 
-class Program
-{
-	public static void Main()
-	{
-		Car c = new Car();
-		
-		WriteLine( c.ToString() ); // ok
+bool b = s.Contains('b'); // s의 메소드 호출, ()를 사용해서 인자 전달 가능
+int  n = s.Length;       // s의 프라퍼티 사용. 인자 전달 x
 
-		object o = c;
-	}
-}
+WriteLine($"{b} {n}");
+
+

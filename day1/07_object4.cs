@@ -1,11 +1,18 @@
 using static System.Console;
 
-// 핵심 : 메소드와 프라퍼티
+class Car 
+{	
+}
 
-string s = "abcd";
+class Program
+{
+	public static void Main()
+	{
+		Car c = new Car();
+		
+		WriteLine( c.ToString() ); // ok
 
-bool b = s.Contains('b');
-int  n = s.Length;       
-
-WriteLine($"{b} {n}");
+		object o = c;
+	}
+}
 

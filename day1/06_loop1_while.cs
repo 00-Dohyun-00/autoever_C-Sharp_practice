@@ -1,6 +1,24 @@
 using static System.Console;
 
-// ÇÙ½É : while loop
+// ï¿½Ù½ï¿½ : while loop
 
 int cnt = 0;
 
+while(cnt < 10)
+{
+    WriteLine($"{cnt}");
+    ++cnt;
+}
+
+cnt = 0;
+
+while(true)
+{
+    WriteLine($"{cnt}");
+    ++cnt;
+
+    if(cnt == 10)
+    {
+        break;
+    }
+}

@@ -1,4 +1,4 @@
-// �ٽ� : switch expression
+// 핵심: switch expression
 
 int dayofweek = 1;
 
@@ -11,3 +11,12 @@ switch(dayofweek)
 	case 2: s1 = "tue"; break;
 	default : s1 = "unknown"; break;
 }
+
+// 아래처럼도 가능(위와 동일)
+string s2 = dayofweek switch
+{
+	0 => "sun",
+	1 => "mon",
+	2 => "tue",
+	_=> "unknown"
+};
