@@ -1,0 +1,82 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net10.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="00_value_vs_reference4.cs" />
+    <Compile Remove="01_string1.cs" />
+    <Compile Remove="01_string2.cs" />
+    <Compile Remove="01_string3.cs" />
+    <Compile Remove="01_string4.cs" />
+    <Compile Remove="02_nullable1.cs" />
+    <Compile Remove="02_nullable2.cs" />
+    <Compile Remove="02_nullable3.cs" />
+    <Compile Remove="02_nullable4.cs" />
+    <Compile Remove="02_nullable5.cs" />
+    <Compile Remove="03_Collection.cs" />
+    <Compile Remove="04_inheritance1.cs" />
+    <Compile Remove="04_inheritance2.cs" />
+    <Compile Remove="05_upcasting1.cs" />
+    <Compile Remove="05_upcasting2.cs" />
+    <Compile Remove="06_override1.cs" />
+    <Compile Remove="06_override2.cs" />
+    <Compile Remove="06_override3.cs" />
+    <Compile Remove="07_example1.cs" />
+    <Compile Remove="07_example2.cs" />
+    <Compile Remove="07_example3.cs" />
+    <Compile Remove="07_example4.cs" />
+    <Compile Remove="07_example5.cs" />
+    <Compile Remove="07_example6.cs" />
+    <Compile Remove="08_ToString.cs" />
+    <Compile Remove="09_equals1.cs" />
+    <Compile Remove="09_equals2.cs" />
+    <Compile Remove="09_equals3.cs" />
+    <Compile Remove="09_equals4.cs" />
+    <Compile Remove="10_interface1.cs" />
+    <Compile Remove="10_interface2.cs" />
+    <Compile Remove="10_interface3.cs" />
+    <Compile Remove="10_interface4.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="00_value_vs_reference4.cs" />
+    <None Include="01_string1.cs" />
+    <None Include="01_string2.cs" />
+    <None Include="01_string3.cs" />
+    <None Include="01_string4.cs" />
+    <None Include="02_nullable1.cs" />
+    <None Include="02_nullable2.cs" />
+    <None Include="02_nullable3.cs" />
+    <None Include="02_nullable4.cs" />
+    <None Include="02_nullable5.cs" />
+    <None Include="03_Collection.cs" />
+    <None Include="04_inheritance1.cs" />
+    <None Include="04_inheritance2.cs" />
+    <None Include="05_upcasting1.cs" />
+    <None Include="05_upcasting2.cs" />
+    <None Include="06_override1.cs" />
+    <None Include="06_override2.cs" />
+    <None Include="06_override3.cs" />
+    <None Include="07_example1.cs" />
+    <None Include="07_example2.cs" />
+    <None Include="07_example3.cs" />
+    <None Include="07_example4.cs" />
+    <None Include="07_example5.cs" />
+    <None Include="07_example6.cs" />
+    <None Include="08_ToString.cs" />
+    <None Include="09_equals1.cs" />
+    <None Include="09_equals2.cs" />
+    <None Include="09_equals3.cs" />
+    <None Include="09_equals4.cs" />
+    <None Include="10_interface1.cs" />
+    <None Include="10_interface2.cs" />
+    <None Include="10_interface3.cs" />
+    <None Include="10_interface4.cs" />
+  </ItemGroup>
+
+</Project>
