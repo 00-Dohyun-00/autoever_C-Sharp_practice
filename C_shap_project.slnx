@@ -1,5 +1,6 @@
 <Solution>
-  <Project Path="day1/DAY1.csproj" />
-  <Project Path="day2/DAY2.csproj" />
-  <Project Path="day3/DAY3.csproj" />
+  <Project Path="DAY1/DAY1.csproj" />
+  <Project Path="DAY2/DAY2.csproj" />
+  <Project Path="DAY3/DAY3.csproj" />
+  <Project Path="WPFSAMPLE2/WPFSAMPLE2.csproj" Id="3736a100-515c-4758-a646-2e95c4e462d6" />
 </Solution>

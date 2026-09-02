@@ -15,9 +15,12 @@ class Program
 		// 1. 객체 자체가 동일한가 ?
 		// 2. 객체는 다르지만 상태가 동일한가 ?
 
+
+		// 동일 객체
 		Point p1 = new Point(1,2);
 		Point p2 = p1;
 
+		// 동일 객체 아니지만 상태는 동일
 		Point p3 = new Point(1,2);
 		Point p4 = new Point(1,2);
 	}

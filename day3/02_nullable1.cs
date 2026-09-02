@@ -16,4 +16,11 @@ int? n3 = null; // ok
 int n5 = null; // error
 int? n6 = null; // ok
 
+// stack에 이렇게 저장되어있는 것
+struct Nullable<int>
+{
+    private bool hasValue;
+    public int value;
+}
+
 
