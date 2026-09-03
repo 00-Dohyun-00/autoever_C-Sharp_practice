@@ -38,7 +38,9 @@
     <Compile Remove="08_ToString2.cs" />
     <Compile Remove="09_equals1.cs" />
     <Compile Remove="09_equals2.cs" />
+    <Compile Remove="09_equals3.cs" />
     <Compile Remove="09_equals4.cs" />
+    <Compile Remove="09_equals5.cs" />
     <Compile Remove="10_interface1.cs" />
     <Compile Remove="10_interface2.cs" />
     <Compile Remove="10_interface3.cs" />
@@ -76,6 +78,8 @@
     <None Include="08_ToString2.cs" />
     <None Include="09_equals1.cs" />
     <None Include="09_equals2.cs" />
+    <None Include="09_equals3.cs" />
+    <None Include="09_equals5.cs" />
     <None Include="09_equals4.cs" />
     <None Include="10_interface1.cs" />
     <None Include="10_interface2.cs" />

@@ -2,5 +2,7 @@
   <Project Path="DAY1/DAY1.csproj" />
   <Project Path="DAY2/DAY2.csproj" />
   <Project Path="DAY3/DAY3.csproj" />
+  <Project Path="DAY4/DAY4.csproj" Id="3fbc7788-aa71-4c18-ac3e-afd58d731831" />
   <Project Path="WPFSAMPLE2/WPFSAMPLE2.csproj" Id="3736a100-515c-4758-a646-2e95c4e462d6" />
+  <Project Path="WPFSAMPLE3/WPFSAMPLE3.csproj" Id="8e6b63c2-2580-4946-b45f-62482cc3ca7b" />
 </Solution>
