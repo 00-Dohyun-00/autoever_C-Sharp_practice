@@ -3,6 +3,9 @@
   <Project Path="DAY2/DAY2.csproj" />
   <Project Path="DAY3/DAY3.csproj" />
   <Project Path="DAY4/DAY4.csproj" Id="3fbc7788-aa71-4c18-ac3e-afd58d731831" />
+  <Project Path="DAY5/DAY5.csproj" Id="89600c23-13f4-4ecd-8237-8a174eb58267" />
+  <Project Path="WpfApp1/WpfApp1.csproj" Id="9de7d8e0-845f-4fd4-bcd0-93ab2c1bd2b8" />
+  <Project Path="WPFEXAMPLE/WPFEXAMPLE.csproj" Id="404aa3f4-78da-418a-a41f-2f4d21dd55d2" />
   <Project Path="WPFSAMPLE2/WPFSAMPLE2.csproj" Id="3736a100-515c-4758-a646-2e95c4e462d6" />
   <Project Path="WPFSAMPLE3/WPFSAMPLE3.csproj" Id="8e6b63c2-2580-4946-b45f-62482cc3ca7b" />
 </Solution>

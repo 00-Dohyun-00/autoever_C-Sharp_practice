@@ -1,0 +1,73 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net10.0-windows</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+	  <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="01_protected.cs" />
+    <Compile Remove="02_lambda1.cs" />
+    <Compile Remove="02_lambda2.cs" />
+    <Compile Remove="02_lambda3.cs" />
+    <Compile Remove="03_array1.cs" />
+    <Compile Remove="03_array2.cs" />
+    <Compile Remove="03_array3.cs" />
+    <Compile Remove="04_collection1.cs" />
+    <Compile Remove="04_collection2.cs" />
+    <Compile Remove="04_collection3.cs" />
+    <Compile Remove="04_collection4.cs" />
+    <Compile Remove="04_collection5.cs" />
+    <Compile Remove="05_using1.cs" />
+    <Compile Remove="05_using2.cs" />
+    <Compile Remove="05_using3.cs" />
+    <Compile Remove="06_Linq1.cs" />
+    <Compile Remove="06_Linq2.cs" />
+    <Compile Remove="06_Linq3.cs" />
+    <Compile Remove="pulzzle1.cs" />
+    <Compile Remove="pulzzle2.cs" />
+    <Compile Remove="pulzzle3.cs" />
+    <Compile Remove="pulzzle4.cs" />
+    <Compile Remove="pulzzle5.cs" />
+    <Compile Remove="pulzzle6.cs" />
+    <Compile Remove="wpf_layout1.cs" />
+    <Compile Remove="wpf_layout2.cs" />
+    <Compile Remove="wpf_layout3.cs" />
+    <Compile Remove="wpf_기본코드.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="01_protected.cs" />
+    <None Include="02_lambda1.cs" />
+    <None Include="02_lambda2.cs" />
+    <None Include="02_lambda3.cs" />
+    <None Include="03_array1.cs" />
+    <None Include="03_array2.cs" />
+    <None Include="03_array3.cs" />
+    <None Include="04_collection1.cs" />
+    <None Include="04_collection2.cs" />
+    <None Include="04_collection3.cs" />
+    <None Include="04_collection4.cs" />
+    <None Include="04_collection5.cs" />
+    <None Include="05_using1.cs" />
+    <None Include="05_using2.cs" />
+    <None Include="05_using3.cs" />
+    <None Include="06_Linq1.cs" />
+    <None Include="06_Linq2.cs" />
+    <None Include="06_Linq3.cs" />
+    <None Include="pulzzle1.cs" />
+    <None Include="pulzzle2.cs" />
+    <None Include="pulzzle3.cs" />
+    <None Include="pulzzle4.cs" />
+    <None Include="pulzzle5.cs" />
+    <None Include="pulzzle6.cs" />
+    <None Include="wpf_layout1.cs" />
+    <None Include="wpf_layout2.cs" />
+    <None Include="wpf_layout3.cs" />
+    <None Include="wpf_기본코드.cs" />
+  </ItemGroup>
+
+</Project>
